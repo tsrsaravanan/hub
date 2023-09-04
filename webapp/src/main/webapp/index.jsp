@@ -1,4 +1,3 @@
 <h1> NRI ANZ </h1>
-<h2> Hub (AKA Bench) is phase inbetween assignments</h2>
-<h2> Lucky ones get thro this phase quickly. Others...take time</h2>
-<img src="NRI.png">
+<h2> Home of Hub </h2>
+<h2>(AKA Bench) is phase inbetween assignments </h2>
